@@ -4,3 +4,4 @@
 
 
 <x-backpack::menu-item title="Posts" icon="la la-question" :link="backpack_url('post')" />
+<x-backpack::menu-item title="Post images" icon="la la-question" :link="backpack_url('post-image')" />
